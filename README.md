@@ -2,7 +2,6 @@
 
 This is a simple Hangman game implemented using HTML, CSS, and JavaScript. Hangman is a word-guessing game where the player tries to guess a hidden word letter by letter before running out of chances (represented by a "hangman" figure).
 
-![screenshot](screenshot.png)
 
 ## Features
 
